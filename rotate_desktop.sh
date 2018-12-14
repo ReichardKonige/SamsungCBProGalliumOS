@@ -10,6 +10,8 @@
 #   https://wiki.ubuntu.com/X/InputCoordinateTransformation
 #
 
+# Set Icons and current mode file
+
 Icon=$HOME/keyonc.png
 Icoff=$HOME/keyoff.png
 fconfig=".keyboard" 
